@@ -72,6 +72,18 @@ show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
 
+# HOBBIES SECTION
+# show_hobbies_card:
+# > setting this to true, will display the Hobbies section
+# > setting this to false, will omit the Hobbies section
+show_hobbies_card: true
+# show_hobbies:
+# > setting this to true, will display your listed projects in _data/hobbies.yml
+# > setting this to false, will omit your listed hobbies
+show_hobbies: true
+# projects_title: The will be displayed as the title of your projects
+hobbies_title: Hobbies
+
 # CONTACT SECTION
 # show_contact_card:
 # > setting this to true, will display the Contact section
